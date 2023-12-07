@@ -1,0 +1,5 @@
+Define Computer Hardware?
+Computer hardware includes the physical parts of a computer, such as the case,
+central processing unit, random access memory, monitor, mouse, keyboard,
+computer data storage, graphics card, sound card, speakers and motherboard. 
+By contrast, software is the set of instructions that can be stored and run by hardware. 
